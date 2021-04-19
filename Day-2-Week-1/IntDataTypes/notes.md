@@ -11,6 +11,8 @@ Lesson on how to utilize commonly used integer (whole numbers) data types in C#
 
 </details>
 
+[See Example Here](IntegerDataTypes.cs)
+
 1. Via VSCommunity, learned how to use `int` in the context of setting it as a constant or variable.
     - Made a program on how to determine the number of minutes based on seconds given, and vice versa.
 
